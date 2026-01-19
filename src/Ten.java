@@ -35,6 +35,7 @@ public class Ten {
                 }
             }
             System.out.println();
+            System.out.println("테스트합니다");
         }
     }
 }
